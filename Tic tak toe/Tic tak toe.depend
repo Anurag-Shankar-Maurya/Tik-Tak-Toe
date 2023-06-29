@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1679120123 source:c:\users\anurag\desktop\c c++\c++ only\tic tak toe\main.cpp
+	<iostream>
+	<conio.h>
+	<iomanip>
+	<stdlib.h>
+	<stdio.h>
+	<dos.h>
+	<math.h>
+	<string>
+
+1679119999 source:c:\users\anurag\desktop\c c++\c++ only\tic tak toe\resource.rc
+
